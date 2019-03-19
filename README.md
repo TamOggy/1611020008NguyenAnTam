@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Hello, wellcome to my page
+![Image of Yaktocat](https://scontent.fvca1-2.fna.fbcdn.net/v/t1.0-9/53669216_1371224736369552_878559281501175808_n.jpg?_nc_cat=100&_nc_oc=AQmQndUMQumICl2XJrOE4i2L5QkEOKk7ZjQyvx3XSEvf1_lX-HuspfptU5VssBh6xP4&_nc_ht=scontent.fvca1-2.fna&oh=67c276fbf91e822e7499f99c1267984f&oe=5D0A5CEB)
 
-You can use the [editor on GitHub](https://github.com/TamOggy/1611020008NguyenAnTam/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ THÔNG TIN CÁ NHÂN
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Tên: Nguyễn An Tâm
+# Ngày sinh: 27/12/1996
+# Trình độ: Đại học
+# Chuyên ngành: Test game.
+# Kinh nghiệm làm việc: chưa
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TamOggy/1611020008NguyenAnTam/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###### Dự án cá nhân [Click](https://github.com/TamOggy)
+###### Facebook [Click](https://www.facebook.com/profile.php?id=100004461165475)
+###### Twiter [Click](https://twitter.com/antam823)
